@@ -1,8 +1,10 @@
 {
-  "name": "scaffolding",
+  "name": "create-project-cli-scaffold",
+  "version": "1.0.0",
+  "description": "A CLI to scaffold projects",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "files": ["cli.js", "templates"],
   "devDependencies": {
     "commander": "^13.1.0"
   },
