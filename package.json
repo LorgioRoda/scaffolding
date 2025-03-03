@@ -2,7 +2,7 @@
   "name": "create-project-cli-scaffold",
   "version": "1.0.0",
   "description": "A CLI to scaffold projects",
-  "private": true,
+  "private": false,
   "type": "module",
   "files": ["cli.js", "templates"],
   "devDependencies": {
