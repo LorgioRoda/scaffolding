@@ -5,7 +5,7 @@
   "private": false,
   "type": "module",
   "files": ["cli.js", "templates"],
-  "devDependencies": {
+  "dependencies": {
     "commander": "^13.1.0"
   },
   "bin": {
